@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bluetooth-spp-terminal-master.iml" filepath="$PROJECT_DIR$/.idea/modules/bluetooth-spp-terminal-master.iml" group="bluetooth-spp-terminal-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bluetooth-spp-terminal/bluetooth-spp-terminal-master-bluetooth-spp-terminal.iml" filepath="$PROJECT_DIR$/.idea/modules/bluetooth-spp-terminal/bluetooth-spp-terminal-master-bluetooth-spp-terminal.iml" group="bluetooth-spp-terminal-master/bluetooth-spp-terminal" />
+    </modules>
+  </component>
+</project>
